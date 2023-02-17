@@ -13,9 +13,17 @@ inst1;
 inst2;
 inst3;
 }
+
 fct 3 {
 inst1;
 inst2;
 inst3;
 }
+
+fct 4 {
+inst1;
+inst2;
+inst3;
+}
+
 }

@@ -1,12 +1,11 @@
 
-class class2 {
+class class3 {
 
-public class2(){}
+public class3(){}
 
 fct 1 {
-inst1;
+inst1 ;
 inst2;
-inst3;
 }
 
 fct 2 {
@@ -14,11 +13,9 @@ inst1;
 inst2;
 inst3;
 }
-
 fct 3 {
 inst1;
 inst2;
 inst3;
 }
-
 }
