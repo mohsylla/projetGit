@@ -6,6 +6,11 @@ class class1 { // release
 public class1(){}
 // suppr f1
 
+fct 11 { // add fct 11
+inst1;
+inst2;
+}
+
 fct 2 {
 inst1;
 inst2;
