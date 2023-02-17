@@ -1,6 +1,8 @@
 
 class class2 {
-
+/**
+* comment
+*/
 public class2(){}
 
 fct 1 {
