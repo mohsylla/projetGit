@@ -4,9 +4,9 @@ class class2 {
 public class2(){}
 
 fct 1 {
-inst1;
-inst2;
-/*inst3 *; //realse
+inst1 ...; //test
+inst2 ...; //tes
+inst3 ...; //release
 }
 
 fct 2 {

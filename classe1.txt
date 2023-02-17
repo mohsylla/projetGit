@@ -5,8 +5,9 @@ public class1(){}
 
 fct 1 {
 inst1 ;
-inst2;
-inst3;
+inst2 ;//test
+inst3 ;//test
+inst4 ;// add 
 }
 
 fct 2 {

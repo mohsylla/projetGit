@@ -4,8 +4,8 @@ class class3 {
 public class3(){}
 
 fct 1 {
-inst1 ;
-/*inst2*/; // release
+inst1 ...; //test
+inst2 ...; // release test
 }
 
 fct 2 {
