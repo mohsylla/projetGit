@@ -1,0 +1,20 @@
+
+class class3 {
+
+
+fctTEST1 {
+inst1 ;
+/*inst2*/; // release
+}
+
+fctTEST2 {
+inst1;
+inst2;
+inst3;
+}
+fctTEST3 {
+inst1;
+inst2;
+inst3;
+}
+}

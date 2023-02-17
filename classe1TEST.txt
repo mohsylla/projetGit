@@ -1,0 +1,37 @@
+
+class class1 { // release
+
+public class1(){}
+
+fct1TEST1 {
+inst1 ;
+inst2;
+inst3;
+}
+
+fct1TEST2 {
+inst1;
+inst2;
+inst3;
+}
+
+fct1TEST3 {
+inst1;
+inst2;
+inst3;
+}
+
+fct1TEST4 {
+inst1;
+inst2;
+inst3;
+}
+
+//release
+fct 5 {
+inst1;
+inst2;
+inst3;
+}
+
+}
