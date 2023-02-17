@@ -1,5 +1,5 @@
 
-class class1 {
+class class1 { // release
 
 public class1(){}
 
@@ -21,6 +21,13 @@ inst3;
 }
 
 fct 4 {
+inst1;
+inst2;
+inst3;
+}
+
+//release
+fct 5 {
 inst1;
 inst2;
 inst3;
