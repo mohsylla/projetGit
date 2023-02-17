@@ -6,6 +6,7 @@ public class1(){}
 fct 1 {
 inst1 ;
 inst2;
+inst3;
 }
 
 fct 2 {
