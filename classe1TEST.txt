@@ -3,6 +3,10 @@ class class1 { // release
 
 public class1(){}
 
+fct1TEST11 {
+inst1 ...; //release2
+}
+
 fct1TEST1 {
 inst1 ;
 inst2;

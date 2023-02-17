@@ -1,5 +1,5 @@
 build + test
-<scope>prod</scope>
+<scope>test</scope>
 <plugin>...</plugin>
 <version>...<version/>
 <lib></lib>
