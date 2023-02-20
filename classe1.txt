@@ -12,7 +12,7 @@ inst2;
 }
 
 fct 2 {
-inst1;
+inst1 ...; // test
 inst2 ...; //release2
 //suppression
 }
@@ -27,6 +27,7 @@ fct 4 {
 inst1;
 inst2;
 inst3;
+inst4; //master
 }
 // suppr f5
 
